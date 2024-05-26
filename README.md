@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @zainulabdee
 - 👀 I’m interested in learning skills
 - 🌱 I’m currently student of lords institution of enginnering and technology
-- 💞️ I’m looking to collaborate 
-- 📫 How to reach me :9949978520
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- 💞️ I’m looking to collaborate ANDROID DEVELOPER 
+- 📫 How to reach me : 
+- 😄 Pronouns: he/himhttps://www.linkedin.com/in/mohammed-zain-ul-abdeen-28a79429a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- ⚡ Fun fact: Always active to work
 
 <!---
 zainulabdee/zainulabdee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
